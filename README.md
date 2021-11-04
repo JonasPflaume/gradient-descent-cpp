@@ -122,4 +122,8 @@ int main()
 }
 ```
 .
+<<<<<<< HEAD
 .
+=======
+change here
+>>>>>>> be73c290106b4aba74dbd2316f4be800fa01d047
