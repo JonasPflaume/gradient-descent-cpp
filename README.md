@@ -122,13 +122,7 @@ int main()
 }
 ```
 .
-<<<<<<< HEAD
 .
-=======
 change here
-<<<<<<< HEAD
 haha
 Conflict made
-=======
->>>>>>> 4f8c89347c196bca304f561594abe308c211815a
->>>>>>> be73c290106b4aba74dbd2316f4be800fa01d047
